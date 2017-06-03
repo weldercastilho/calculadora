@@ -21,7 +21,7 @@ public class Calculadora {
 		return n1;
 	}
 	public double getN2(){
-		return n2;
+		return n3;
 	}
 	
 	public double soma(){
